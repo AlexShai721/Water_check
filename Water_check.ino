@@ -2,6 +2,8 @@
 SoftwareSerial SMS(9, 10);
 #define trigpin 7  
 #define echopin 6
+
+#define alex
 // rx(9) and tx(10)
                           // rx(9-arduino) connect to tx(gsm module)
                           // tx(10-arduino) connect to rx(gsm module)
